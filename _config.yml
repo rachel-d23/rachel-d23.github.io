@@ -1,6 +1,6 @@
 title: "Rachel Decodes Tech"
 author: "Rachel"
-# description: "Rachel Decodes Tech"
+description: "Made by Rachel Daniel :)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -35,6 +35,8 @@ external:                  # shows a footer with social links - for available ic
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
+
+remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
  - jekyll-remote-theme
