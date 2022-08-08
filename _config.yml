@@ -18,10 +18,13 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "guideto.md", title: Guide To}
+  - {file: "guideTo.md", title: Guide To}
   - {file: "todayIlearned.md", title: Today I Learned}
-  - {file: "productprep.md", title: Product Management}
-  - {file: "booksIread.md", title: Library}
+  - {file: "reflections.md", title: Reflections}
+  - {file: "dataStructures.md", title: Data Structures}
+  - {file: "productPrep.md", title: Product Management}
+  - {file: "aboutMe.md", title: About Me}
+  - {file: "library.md", title: Library}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rdaniel37@gatech.edu"}
