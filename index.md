@@ -15,7 +15,8 @@ Thank you!
 Rachel 
 
 Advice | Words of Inspiration:
-1. Just Do It (get out of your head and start working towards achieving your dreams!) 
+Just Do It (get out of your head and start working towards achieving your dreams!) 
+
 > “For the things we have to learn before we can do them, we learn by doing them.”
 > - Aristotle
 
