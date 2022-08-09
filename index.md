@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-# Hello World! 
+#Hello World! 
 
-## My name is Rachel, and I am so glad that you found my space of the web :)
+##My name is Rachel, and I am so glad that you found my space of the web :)
 
 Here I am sharing my journey to being a software developer, and how I am rediscovering my passion for coding and building solutions with technology
 
@@ -17,6 +17,6 @@ Rachel
 Advice | Words of Inspiration:
 Just Do It (get out of your head and start working towards achieving your dreams!) 
 
-> “For the things we have to learn before we can do them, we learn by doing them.”
-> - Aristotle
+>“For the things we have to learn before we can do them, we learn by doing them.”
+>- Aristotle
 
