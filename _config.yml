@@ -1,6 +1,6 @@
 title: "Rachel Decodes Tech"
 author: "Rachel"
-#description: "Made by Rachel Daniel :)"
+description: "documenting my journey as a software developer"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -27,7 +27,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rdaniel37@gatech.edu"}
   - {title: Github, icon: github, url: "https://github.com/rachel-d23"}
-  - {linkedin: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/rachela-daniel/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
